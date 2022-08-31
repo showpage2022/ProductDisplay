@@ -1,0 +1,29 @@
+
+p {text-align: justify;}
+/*.q-main {background: url("images/2.png") center no-repeat;background-size: cover;}*/
+.w1200 {width: 1000px;margin: 0 auto}
+.wz-content p {font-size: 16px}
+.wz-content p.text {font-size: 16px;color: #333;text-indent: 28px;line-height: 26px;padding-bottom: 20px;}
+.wz-title {text-align: center}
+.wz-title h1 {font-size: 24px; font-weight: 600; padding: 24px 0 0;color: #333;display: inline-block;position: relative;}
+.wz-img {height:auto;width: auto;margin: 0 auto;text-align: center;}
+.wz-img img {height:auto;width: auto; max-width: 600px;margin: 0 auto;}
+.wz-content {margin-top: 10px;margin-bottom: 10px}
+/*自助平台*/
+/*.white_content {padding: 10px!important;height: auto!important;}*/
+/*.tc-btn {position: static!important;margin: 0 auto!important;margin-top: 10px!important;}*/
+/*.icon-span {background: url(../images/fanhui.png) center no-repeat;height: 16px;width: 16px;}*/
+/*.white_content {left:50%!important;top:50%!important;transform: translate(-50%, -50%)!important;}*/
+
+/*楚一*/
+.ul-list {list-style-type: disc;list-style-position: outside;font-size: 18px}
+.ul-list li {margin-bottom: 30px}
+.mk-title {font-size: 20px;font-weight: bold;color: #333;margin-bottom: 5px}
+.mk-content{font-size: 16px;color: #333;text-indent: 28px;line-height: 26px;}
+.wz-img {margin-top: 20px;margin-bottom: 20px}
+.wz-img img {border: double #a355cc}
+/*.ft {font-weight: 600}*/
+.wz-title {margin: 30px auto}
+.wz-img {display: none}
+.border-img {}
+.border-img img {}
